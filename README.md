@@ -1,4 +1,4 @@
-Some suggestions for important topics to be dicussed ASAP!
+Some suggestions for important topics to be discussed ASAP!
 # Core objective: Create an attractive and convincing web platform for the Algerian Gov./Administration
 
 - Define web platform? 
